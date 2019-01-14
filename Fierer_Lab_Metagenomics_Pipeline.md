@@ -2,6 +2,7 @@
 # Metagenomics Pipeline
 
 Created 2019-01-14: Hannah Holland-Moritz
+
 Updated 2019-01-14: Hannah Holland-Moritz
 
 ### Samples we plan to test the pipeline on:
@@ -24,14 +25,6 @@ Notes: Need a demultiplexing script.
 # for illumina nextseq reads; quality score 20; length >50
 sickle pe -i -t sanger -o -q 20 -l 50
 ```
-
-
-      File "<ipython-input-1-d51c2711e906>", line 2
-        sickle pe -i -t sanger -o -q 20 -l 50
-                ^
-    SyntaxError: invalid syntax
-
-
 
 # Assembly-free taxonomic characterization
 
