@@ -1,7 +1,15 @@
 
 # Metagenomics Pipeline
 
-Updated 1/14/19
+Created 2019-01-14: Hannah Holland-Moritz
+Updated 2019-01-14: Hannah Holland-Moritz
+
+### Samples we plan to test the pipeline on:
+- Showerhead (2) - high coverage
+- Panama (2) - low depth
+- Tess CZO (2) - medium coverage
+	* Calhun 60-70
+	* Shale hills 90-100
 
 ## Step 0: Demultiplexing and Quality Filtering
 
