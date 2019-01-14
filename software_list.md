@@ -26,8 +26,8 @@
 
 - ```CheckM``` - [https://github.com/Ecogenomics/CheckM/wiki/Installation#how-to-install-checkm](https://github.com/Ecogenomics/CheckM/wiki/Installation#how-to-install-checkm)
 
-- ```GTDB``` - [https://github.com/Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk) - NOTE: needs to bee installed and tested
+- ```GTDB``` - [https://github.com/Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk) - NOTE: needs to bee installed and tested 
 
--```Anvi'o``` - [http://merenlab.org/software/anvio/](http://merenlab.org/software/anvio/)
+- ```Anvi'o``` - [http://merenlab.org/software/anvio/](http://merenlab.org/software/anvio/)
 
 - ```prokka``` - [https://github.com/tseemann/prokka](https://github.com/tseemann/prokka)
